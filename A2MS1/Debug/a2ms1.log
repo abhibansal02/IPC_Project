@@ -1,0 +1,17 @@
+﻿  a2ms1.c
+  account.c
+  accountTicketingUI.c
+C:\Users\Abhi\source\repos\IPC-Project\A2\MS1\accountTicketingUI.c(54,39): warning C4047: 'function': 'const Account **' differs in levels of indirection from 'Account *'
+C:\Users\Abhi\source\repos\IPC-Project\A2\MS1\accountTicketingUI.c(54,29): warning C4024: 'menuLogin': different types for formal and actual parameter 1
+C:\Users\Abhi\source\repos\IPC-Project\A2\MS1\accountTicketingUI.c(64,36): warning C4047: 'function': 'const Account *' differs in levels of indirection from 'Account **'
+C:\Users\Abhi\source\repos\IPC-Project\A2\MS1\accountTicketingUI.c(64,21): warning C4024: 'menuAgent': different types for formal and actual parameter 2
+C:\Users\Abhi\source\repos\IPC-Project\A2\MS1\accountTicketingUI.c(76,37): warning C4028: formal parameter 1 different from declaration
+C:\Users\Abhi\source\repos\IPC-Project\A2\MS1\accountTicketingUI.c(181,18): error C2198: 'getAccountData': too few arguments for call
+C:\Users\Abhi\source\repos\IPC-Project\A2\MS1\accountTicketingUI.c(355,43): error C2059: syntax error: ']'
+C:\Users\Abhi\source\repos\IPC-Project\A2\MS1\accountTicketingUI.c(355,49): error C2143: syntax error: missing ';' before ')'
+C:\Users\Abhi\source\repos\IPC-Project\A2\MS1\accountTicketingUI.c(361,2): error C2059: syntax error: '}'
+C:\Users\Abhi\source\repos\IPC-Project\A2\MS1\accountTicketingUI.c(363,1): error C2059: syntax error: '}'
+  commonHelpers.c
+C:\Users\Abhi\source\repos\IPC-Project\A2\MS1\commonHelpers.c(244,63): warning C4047: 'function': 'Account *' differs in levels of indirection from 'int'
+C:\Users\Abhi\source\repos\IPC-Project\A2\MS1\commonHelpers.c(244,47): warning C4024: 'getNextAcct': different types for formal and actual parameter 1
+  Generating Code...

@@ -1,0 +1,5 @@
+﻿  a1ms1.c
+  commonHelpers.c
+C:\Users\Abhi\source\repos\IPC-Project\A1\MS1\commonHelpers.c(106,15): warning C4013: 'length' undefined; assuming extern returning int
+  Generating Code...
+  a1ms1.vcxproj -> C:\Users\Abhi\source\repos\IPC-Project\A1\MS1\Debug\a1ms1.exe

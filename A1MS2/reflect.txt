@@ -1,0 +1,15 @@
+// #############################################################################################
+//  Assignment: 1 
+//  Milestone : 2
+// #############################################################################################
+//  Student Name  : Abhi Bansal
+//  Student ID    : 122132210
+//  Student Email : abansal19@myseneca.ca
+//  Course Section: NLL
+// #############################################################################################
+
+1. Amongst all the helper functions, the most difficult one was to define the getCString function. In the beginning, understanding the functioning of scanf and how it reads the user input was a bit of a challenge. To get a better concept of the scanf function and how it operates I referred to the class recordings and went over the lectures from our professor which helped a lot. For further clarification, I refeed to the open-source websites. Another challenge was the use of while and if functions to generate necessary error messages while using other functions like void copy and int length within getCString function. The class recordings again played a major role in making the usage and implementation of those functions clearer. Marking all the breakpoints and going over the code repeatedly while debugging also helped me a lot to create a reliable and properly working function. 
+
+2. The helper functions library is a great tool which helps us save a lot of time and effort while creating larger applications. It gives us an option to use a function as many times necessary instead of re writing the same lines of code repeatedly. It makes the main program easier to read as we are just mentioning the order in which the function needs to be displayed. When it come to maintenance, it saves a lot of time and increases efficiency since we don’t have to go over all the code line by line to make necessary changes, we just need to figure out which functions needs to be changed and updated and make those necessary changes. 
+
+3. Data types(struct) allows us to use different variables of the same kind of data and bring them under one umbrella and to be used a single unit. Structs helps us to reduce the clutter of declaring variables as an individual variable and figuring out where and which variable to use. Structs are more efficient and easier to maintain. However, they don’t allow us to use parameters like /, *, +, %, -. Furthermore, if a change is made, we must ensure all other functions using same struct are also updated and the code does not crash.  

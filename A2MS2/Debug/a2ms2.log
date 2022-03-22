@@ -1,0 +1,14 @@
+﻿  accountTicketingUI.c
+C:\Users\Abhi\source\repos\IPC-Project\A2\MS2\accountTicketingUI.c(52,40): warning C4047: 'function': 'const Account *' differs in levels of indirection from 'Account **'
+C:\Users\Abhi\source\repos\IPC-Project\A2\MS2\accountTicketingUI.c(52,25): warning C4024: 'menuLogin': different types for formal and actual parameter 1
+C:\Users\Abhi\source\repos\IPC-Project\A2\MS2\accountTicketingUI.c(58,29): warning C4133: 'function': incompatible types - from 'Account *' to 'AccountTicketingData *'
+C:\Users\Abhi\source\repos\IPC-Project\A2\MS2\accountTicketingUI.c(58,53): warning C4047: 'function': 'const Account *' differs in levels of indirection from 'const int'
+C:\Users\Abhi\source\repos\IPC-Project\A2\MS2\accountTicketingUI.c(58,35): warning C4024: 'menuAgent': different types for formal and actual parameter 2
+C:\Users\Abhi\source\repos\IPC-Project\A2\MS2\accountTicketingUI.c(174,37): warning C4133: 'function': incompatible types - from 'AccountTicketingData *' to 'Account *'
+C:\Users\Abhi\source\repos\IPC-Project\A2\MS2\accountTicketingUI.c(178,46): warning C4047: 'function': 'Person *' differs in levels of indirection from 'Account **'
+C:\Users\Abhi\source\repos\IPC-Project\A2\MS2\accountTicketingUI.c(178,19): warning C4024: 'getPersonData': different types for formal and actual parameter 1
+C:\Users\Abhi\source\repos\IPC-Project\A2\MS2\accountTicketingUI.c(183,46): warning C4047: 'function': 'Person *' differs in levels of indirection from 'Account **'
+C:\Users\Abhi\source\repos\IPC-Project\A2\MS2\accountTicketingUI.c(183,19): warning C4024: 'getPersonData': different types for formal and actual parameter 1
+C:\Users\Abhi\source\repos\IPC-Project\A2\MS2\accountTicketingUI.c(184,49): warning C4047: 'function': 'UserLogin *' differs in levels of indirection from 'Account **'
+C:\Users\Abhi\source\repos\IPC-Project\A2\MS2\accountTicketingUI.c(184,22): warning C4024: 'getUserLoginData': different types for formal and actual parameter 1
+  a2ms2.vcxproj -> C:\Users\Abhi\source\repos\IPC-Project\A2\MS2\Debug\a2ms2.exe
